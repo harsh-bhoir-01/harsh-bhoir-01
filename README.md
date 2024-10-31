@@ -1,8 +1,7 @@
 # 💫 About Me:
 👨‍💻 I'm Harsh, a full-stack developer skilled in building and optimizing web applications. I specialize in Node.js, Express, MongoDB, and React.js to deliver efficient, scalable solutions!".<br>📫 Feel free to reach me at harshbhoir1302@gmail.com
 
-![1674617947228](https://github.com/user-attachments/assets/0cfdc388-342d-4cf7-b099-3e87d2be00af)
-
+![website1](https://github.com/user-attachments/assets/a151cba1-008c-4ab5-a228-d6ad3ddd9c0c)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-bhoir-268536249) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/harshbhoir01?t=yuZ21Qyppx8zxJgJnNbGOg&s=09) 
